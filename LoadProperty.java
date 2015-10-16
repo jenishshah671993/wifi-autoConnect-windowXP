@@ -1,12 +1,4 @@
-/*
- * Project    : 
- * File       : LoadProperty.java
- * Created on : Oct. 5, 2015 4:20:58 PM
- *
- * Copyright(c) 2015 Kahuna Systems. All Rights Reserved.
- * This software is the proprietary information of Kahuna Systems.
- *
- */
+
 
 package connectionTest;
 import java.io.FileInputStream;
@@ -15,7 +7,7 @@ import java.util.Properties;
 /**
  * LoadProperty.java for Set the Property Value For Profile.
  *
- * @author .
+ * @author Sunil And Jenish.
  * @version 1.0
  */
 public class LoadProperty {
