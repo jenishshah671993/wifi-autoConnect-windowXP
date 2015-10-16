@@ -1,12 +1,4 @@
-/*
- * Project    : 
- * File       : updateXml.java
- * Created on : Oct. 5, 2015 4:20:58 PM
- *
- * Copyright(c) 2015 Kahuna Systems. All Rights Reserved.
- * This software is the proprietary information of Kahuna Systems.
- *
- */
+
 package connectionTest;
 
 import java.io.File;
@@ -24,7 +16,7 @@ import org.w3c.dom.NodeList;
 /**
  * updateXml.java for Write the Property Value in xml For Profile.
  *
- * @author .
+ * @author Sunil.
  * @version 1.0
  */
 public class updateXml {
