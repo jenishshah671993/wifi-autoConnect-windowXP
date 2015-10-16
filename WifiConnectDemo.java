@@ -16,7 +16,7 @@ import structures.PhyRadioState;
 /**
  * WifiConnectDemo.java for WiFi Automation.
  *
- * @author Sunil.
+ * @author Sunil Borad(boradsunil007@gmail.com).
  * @version 1.0
  */
 
