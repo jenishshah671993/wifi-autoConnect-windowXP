@@ -7,7 +7,7 @@ import java.util.Properties;
 /**
  * LoadProperty.java for Set the Property Value For Profile.
  *
- * @author Sunil And Jenish.
+ * @author Sunil .
  * @version 1.0
  */
 public class LoadProperty {
